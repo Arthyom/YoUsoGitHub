@@ -27,6 +27,13 @@ double funDivReal ( int a , int b )
 	return c;
 }
 
+double funcionModulo ( int a, int b)
+{
+
+	double  a%b;
+
+}
+
 int main(){
 
 	char opcion;
@@ -35,6 +42,9 @@ int main(){
 	{
 		case '+' : funcionSumar(1,1); break;
 		case '-' : funcionRestar(1,1); break;
+		case '/' : funcioDivicion(2,2);break;
+		case '*' : funcionMult(4,4);
+		
 		
 	}	
 
