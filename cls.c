@@ -21,6 +21,8 @@ int main(){
 	switch (opcion)
 	{
 		case '+' : funcionSumar(1,1); break;
+		case '-' : funcionRestar(1,1); break;
+		
 	}	
 
 	int a, int b, int c;
