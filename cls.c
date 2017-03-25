@@ -14,9 +14,17 @@ int multiplicar (int a, int b)
 	return a*b;
 }
 
+// realizar una  gran mejora en la funcion de divicion
 int funcionDividir ( int a , int b )
 {
 	return a/b;
+}
+
+
+double funDivReal ( int a , int b )
+{
+	double c = a / (double)b;
+	return c;
 }
 
 int main(){
