@@ -14,6 +14,11 @@ int multiplicar (int a, int b)
 	return a*b;
 }
 
+int funcionDividir ( int a , int b )
+{
+	return a/b;
+}
+
 int main(){
 
 	char opcion;
