@@ -25,7 +25,7 @@ int main(){
 		
 	}	
 
-	int a, int b, int c;
+	int va, int vb, int vc;
 
 	return 0;
 
