@@ -1,6 +1,6 @@
-int restarNumero (int a, int b )
-{
-	return a-b;
+int Restar  (int a, int b )
+{	int c = a-b;
+	return c;
 }
 
 
