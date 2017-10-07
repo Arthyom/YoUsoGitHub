@@ -5,3 +5,9 @@ def imprime (cad)
 end
 
 puts "hola"
+
+lenguajes = ['ruby', 'python', 'julia','java']
+
+lenguajes.echa do |leng|
+	p leng
+end
