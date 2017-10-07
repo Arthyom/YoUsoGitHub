@@ -8,6 +8,8 @@ puts "hola"
 
 lenguajes = ['ruby', 'python', 'julia','java']
 
-lenguajes.echa do |leng|
+lenguajes.echa_char  do |leng|
 	p leng
 end
+
+
